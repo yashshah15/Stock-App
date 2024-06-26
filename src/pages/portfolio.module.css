@@ -1,0 +1,35 @@
+.pageTitle {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.cardTitle{
+    display: inline;
+}
+
+.companyName{
+    color: gray;
+}
+
+.stockPriceUp {
+  display: flex;
+  justify-content: right;
+  color: green;
+}
+
+.stockPriceDown {
+  display: flex;
+  justify-content: right;
+  color: red;
+}
+
+.displayRight {
+  display: flex;
+  justify-content: right;
+}
+
+.buyButton{
+    margin-right:0.5rem ;
+}
+

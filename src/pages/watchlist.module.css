@@ -1,0 +1,21 @@
+.pageTitle {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.stockTicker{
+    display: inline;
+}
+
+.stockPriceUp{
+    display: flex;
+    justify-content: right;
+    color: green;
+}
+
+.stockPriceDown{
+    display: flex;
+    justify-content: right;
+    color: red;
+}

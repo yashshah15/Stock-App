@@ -1,0 +1,49 @@
+.custom-navbar {
+    height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+   .navbar-brand {
+    font-size: 16px;
+    padding-left: 0.5rem;
+  }
+  
+  .custom-navbar .nav-link {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    font-size: 14px;
+  }
+  
+  .custom-navbar .nav-link.active {
+    border: 1px solid white;
+    border-radius: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .custom-navbar {
+      height: 30px;
+      padding-top: 3px;
+      padding-bottom: 3px;
+    }
+  
+    .custom-navbar .navbar-brand {
+      font-size: 14px;
+    }
+  
+    .custom-navbar .nav-link {
+      padding-top: 0.15rem;
+      padding-bottom: 0.15rem;
+      font-size: 10px;
+    }
+  }
+  
+  /* Additional CSS to remove blank space */
+  @media (min-width: 768px) {
+    .custom-navbar .ms-auto > * {
+      margin-left: 0.5rem;
+    }
+  }
+  

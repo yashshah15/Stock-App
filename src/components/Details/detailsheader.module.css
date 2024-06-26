@@ -1,0 +1,64 @@
+.stockTicker{
+    display: inline;
+}
+
+.stockPriceUp{
+    display: flex;
+    justify-content: right;
+    color: green;
+}
+
+.stockPriceDown{
+    display: flex;
+    justify-content: right;
+    color: red;
+}
+
+.starIcon{
+    font-size:20px;
+    margin-bottom: .7rem;
+    margin-left:.5rem ; 
+}
+
+.filedStarIcon{
+    font-size:20px;
+    margin-bottom: .7rem;
+    margin-left:.5rem ;
+    color:goldenrod;
+}
+
+.logo{
+    height: 5rem;
+    width: 5rem;
+}
+
+.companyName{
+    color: gray;
+}
+
+.buyButton{
+    margin-right:0.5rem ;
+}
+
+.displayRight{
+    display: flex;
+    justify-content: right;
+}
+
+.positivePrice{
+
+    color: green;
+}
+
+.negativePrice{
+    color: red;
+}
+
+.marketStatus{
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    font-weight: 600;
+}
+
+

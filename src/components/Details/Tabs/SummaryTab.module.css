@@ -1,0 +1,33 @@
+.staticContent{
+    font-size: 0.7rem;
+    margin-bottom: 0.1rem;
+    font-weight: 600;
+    margin-right: 0.2rem;
+}
+
+.dynamicContent{
+    font-size: 0.7rem;
+    margin-bottom: 0.1rem;
+}
+
+.paragraphContainer{
+    display: flex;
+    margin-bottom: 0.1rem;
+}
+
+.colContainer{
+    margin-left: 3rem;
+}
+
+.staticAbout{
+    font-size: 0.8rem;
+    margin-bottom: 0.2rem;
+    font-weight: 600;
+    margin-right: 0.2rem;
+}
+
+.dynamicAbout{
+    font-size: 0.8rem;
+    margin-bottom: 0.2rem;
+    margin-right: 0.2rem;
+}

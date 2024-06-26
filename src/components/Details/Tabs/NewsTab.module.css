@@ -1,0 +1,45 @@
+.newsImage {
+  display: flex;
+  height: 4rem;
+  width: 6rem !important;
+  margin-right: 0.3rem !important;
+}
+
+.newsRow {
+  margin-bottom: 1.5rem;
+}
+
+.cardBody {
+  padding: 0.6rem !important;
+}
+
+.textContainer {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.leftJustify {
+  justify-content: flex-start;
+}
+
+.modalSubtitle {
+  margin-top: 0.25rem;
+  font-size: 0.75rem; /* Adjust the font size here */
+  color: #6c757d;
+  margin-bottom: 0% !important;
+}
+
+.facebookIcon{
+  font-size:25px;
+  /* margin-bottom: .7rem; */
+  margin-left:.5rem ; 
+  color: blue;
+}
+
+.twitterIcon{
+  font-size:25px;
+  /* margin-bottom: .7rem; */
+  margin-left:.5rem ; 
+  color:rgb(30, 166, 204);
+}

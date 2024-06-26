@@ -1,0 +1,13 @@
+.containerParent{
+    margin-top: 1.5rem;
+    max-width :70rem !important;
+    align-self: center;
+
+}
+
+.spinner{
+    height: 100px !important;
+    width: 100px !important;
+    margin-left: 45%;
+    
+}
